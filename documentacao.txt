@@ -1,0 +1,15 @@
+DOCUMENTAÇÃO EXTERNA
+
+
+- PROBLEMA ESCOLHIDO:
+
+	Problema Nível Normal "Lutadores de Judô"
+	site: https://rachacuca.com.br/logica/problemas/lutadores-de-judo/
+
+
+
+- QUAL FOI A ESTRATÉGIA DA SOLUÇÃO IMPLEMENTADA
+
+
+
+- COMO UTILIZAR O PROGRAMA (COMO ESPECIFICAR A ENTRADA, COMO A SAÍDA É EXIBIDA, ETC.)
